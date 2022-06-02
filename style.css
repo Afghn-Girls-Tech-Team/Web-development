@@ -1,0 +1,23 @@
+ ol{
+                list-style-type: none;
+                
+                text-align: right;
+                
+            }
+            li{
+                text-align: right;
+            }
+            #title{
+                padding-bottom:  30px;
+                 padding-left: 30px;
+                padding-top: 30px;
+                padding-right: 30px;
+               
+                
+            }
+            p{
+            text-align: right;
+            }
+            h2{
+                text-align: center;
+            }
